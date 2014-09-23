@@ -1,6 +1,7 @@
 Vendor
 user/Plugin
 user/tmp/* 
+user/tmp/cache/persistent/*
 user/[Cc]onfig/core.php
 user/[Cc]onfig/database.php
 !empty
