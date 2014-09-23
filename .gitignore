@@ -1,4 +1,5 @@
 Vendor
+user/Plugin
 user/tmp/* 
 user/[Cc]onfig/core.php
 user/[Cc]onfig/database.php
