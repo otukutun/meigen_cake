@@ -1,0 +1,16 @@
+{
+    "name": "meigen/cakephp",
+    "description": "meigenapp",
+    "authors": [
+        {
+            "name": "otukutun",
+            "email": "orehaorz@gmail.com"
+        }
+    ],
+    "config": {
+        "vendor-dir": "Vendor"
+    },
+    "require": {
+        "cakephp/cakephp": "2.5.*"
+    }
+}
