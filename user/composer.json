@@ -1,6 +1,7 @@
 {
     "require": {
         "cakephp/debug_kit": "2.2.3",
-        "josegonzalez/cakephp-environments": "1.0.*"
+        "josegonzalez/cakephp-environments": "1.0.*",
+        "CakeDC/migrations": "2.3.1"
     }
 }
